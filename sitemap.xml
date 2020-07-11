@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://duchuy040421.github.io/Myblog/posts/test/</loc>
+    <loc>https://duchuy040421.github.io/Myblog/elements/</loc>
   </url>
   
   <url>
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://duchuy040421.github.io/Myblog/elements/</loc>
+    <loc>https://duchuy040421.github.io/Myblog/</loc>
   </url>
   
   <url>
@@ -20,10 +20,6 @@
   
   <url>
     <loc>https://duchuy040421.github.io/Myblog/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://duchuy040421.github.io/Myblog/</loc>
   </url>
   
 </urlset>
