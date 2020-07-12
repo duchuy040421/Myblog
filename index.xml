@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nguyen Duc Huy on My New Hugo Site</title>
-    <link>https://github.com/duchuy040421/Myblog.git/</link>
+    <link>https://duchuy040421.github.io/Myblog/</link>
     <description>Recent content in Nguyen Duc Huy on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://github.com/duchuy040421/Myblog.git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://duchuy040421.github.io/Myblog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>https://github.com/duchuy040421/Myblog.git/elements/</link>
+      <link>https://duchuy040421.github.io/Myblog/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/duchuy040421/Myblog.git/elements/</guid>
+      <guid>https://duchuy040421.github.io/Myblog/elements/</guid>
       <description>Nguyen Duc Huy (04/04/2001)   Table of contents  Introduction My-learning-process Hobby Tables  Introduction My name is Huy and I created this site wanting to further improve programming skills. And my greatest wish is to become a professional programmer and&amp;hellip;
  いつか渋谷の交差点で会いましょう  My-learning-process  [Primary-school] : Nguyen Viet Hong primary school (2007-2012) [Secondary-school] : Doan Thi Diem secondary school (2012-2016) [High-school] : Nguyen Thuong Hien high school (2016-2019)  Hobby  Watch movie theater Listen indie music Basketball Coding And a lots but i can&amp;rsquo;t remember :)  Tables    Number Language Level     1 C++ 65%   2 Html 55%   3 Css 45%    </description>
     </item>
