@@ -2,13 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://duchuy040421.github.io/Myblog/posts/</link>
+    <link>https://dhuy.ml/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://duchuy040421.github.io/Myblog/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://dhuy.ml/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
